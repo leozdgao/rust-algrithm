@@ -5,9 +5,9 @@
 //! 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 fn three_sum(nums: Vec<i32>) -> Vec<Vec<i32>> {
     // 如果数组内元素小于 3 个，直接返回空
-    if (nums.len() < 3) {
+    if nums.len() < 3 {
         return vec![];
     }
     
-
+    return vec![];
 }
